@@ -1,9 +1,9 @@
 ## Olá Mundo! Eu sou a Karine Ferroli 
 
 
-Atualmente estudo JavaScript
+👩‍💻Atualmente estudo JavaScript
 
-Tenho formação em Análise de Sistemas e  
+👩‍🎓Tenho formação em Análise de Sistemas e  
 Especialização em Tecnologias Web, 
 não segui carreira...
 Me iludi com diversas paixões,
