@@ -1,4 +1,8 @@
 ## Olá Mundo! Eu sou a Karine Ferroli 
+
+
+Atualmente estudo JavaScript
+
  <div>
   <a href="https://github.com/karineferroli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karineferroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
