@@ -3,6 +3,14 @@
 
 Atualmente estudo JavaScript
 
+Tenho formação em Análise de Sistemas e  
+Especialização em Tecnologias Web, 
+não segui carreira...
+Me iludi com diversas paixões,
+até perceber que meu coração é Dev. ❤
+
+
+
  <div>
   <a href="https://github.com/karineferroli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karineferroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
