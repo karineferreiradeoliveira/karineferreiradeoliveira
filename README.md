@@ -6,8 +6,8 @@
 👩‍🎓Tenho formação em Análise de Sistemas e  
 Especialização em Tecnologias Web, 
 não segui carreira...
-Me iludi com diversas paixões,
-até perceber que meu coração é Dev. ❤
+Agora percebi que meu coração é Dev. ❤
+Estou em busca de uma vaga de desenvolvedora Front-End Jr
 
 
 
