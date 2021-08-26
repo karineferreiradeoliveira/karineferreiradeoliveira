@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou a Karine Ferroli 
 
 
-👩‍💻Atualmente estudo Html, Css e JavaScript
+👩‍💻Atualmente estudo Html, Css, JavaScript e Python
 
 👩‍🎓Tenho formação em Análise de Sistemas e  
 Especialização em Tecnologias Web, 
