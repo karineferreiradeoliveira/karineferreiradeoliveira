@@ -1,11 +1,11 @@
-## Olá Mundo! Eu sou a Karine Ferroli 
+## Olá Mundo! Eu sou a Karine Ferreira de Oliveira
 
 
 👩‍💻Atualmente estudo Html, Css, JavaScript e Python
 
 👩‍🎓Tenho formação em Análise de Sistemas e  
 Especialização em Tecnologias Web, 
-não segui carreira...
+mas não segui carreira...
 Agora percebi que meu coração é Dev. ❤
 Estou em busca de uma vaga de desenvolvedora Front-End Jr
 
