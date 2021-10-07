@@ -2,7 +2,7 @@
 
 
 👩‍💻Atualmente estudo Html, Css, JavaScript e c#
-👩‍🎓Tenho formação em Análise de Sistemas e Especialização em Tecnologias Web
+👩
 
  <div>
   <a href="https://github.com/karineferreiradeoliveira">
