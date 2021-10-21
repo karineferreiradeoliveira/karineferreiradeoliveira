@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou a Karine
 
 
-👩‍💻Atualmente estudo Html, Css, JavaScript e c#
+👩‍💻Atualmente estudo Html, Css e JavaScript Vanilla
 👩
 
  <div>
