@@ -2,7 +2,7 @@
 
 
 👩‍💻Atualmente estudo Html, Css e JavaScript Vanilla
-👩
+👩~Curiosidade -- meu pc tem luzinha
 
  <div>
   <a href="https://github.com/karineferreiradeoliveira">
