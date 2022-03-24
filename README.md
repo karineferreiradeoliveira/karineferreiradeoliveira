@@ -1,8 +1,9 @@
 ## Olá Mundo! Eu sou a Karine
+Curiosa com o universo web, com um pé no front end e outro backend. Aprendendo front end com o objetivo de saber o 'porque' e não apenas porque 'todo mundo faz assim'. Filmes, séries e jogos estão entre minhas atividades favoritas, e muito código, é claro. 
 
-
-👩‍💻Atualmente estudo Html, Css e JavaScript Vanilla
-👩~Curiosidade -- meu pc tem luzinha
+👩‍💻 Atualmente estudo Html, Css e JavaScript Vanilla
+👩 Curiosidade - Pc com luzinha reduz o índice de bugs
+🚲 Bike é vida
 
 All is Relative
 
