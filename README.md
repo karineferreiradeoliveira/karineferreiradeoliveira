@@ -1,11 +1,14 @@
-## Olá Mundo! Eu sou a Karine
-Curiosa com o universo web, com um pé no front end e outro backend. Aprendendo front end com o objetivo de saber o 'porque' e não apenas porque 'todo mundo faz assim'. Filmes, séries e jogos estão entre minhas atividades favoritas, e muito código, é claro. 
+Olá, Mundo! Eu sou a Karine 🌼
+Depois de um tempo em silêncio, cá estou — versão original, com coragem no peito e curiosidade no olhar.
+Tenho um pé no front, outro no back, e a cabeça cheia de "por quês".
+Não me contento em copiar soluções: quero entender, questionar e criar com sentido.
+Foco nos fundamentos que dão vida à web.
 
-👩‍💻 Atualmente estudo Html, Css e JavaScript Vanilla
-👩 Curiosidade - Pc com luzinha reduz o índice de bugs
-🚲 Bike é vida
+🎮 No tempo livre, me recarrego com livros, séries e jogos (às vezes, tudo ao mesmo tempo).
+👩‍💻 Ah, e sim: um PC com luzinha parece que reduz bugs, vai entender...
+🚲 Bicicleta me lembra que o movimento é vida — e que a liberdade também pode ter duas rodas.
 
-All is Relative
+Tudo é relativo. Mas aqui, o que importa é ser verdadeira.
 
  <div>
   <a href="https://github.com/karineferreiradeoliveira">
