@@ -5,8 +5,8 @@ Não me contento em copiar soluções: quero entender, questionar e criar com se
 Foco nos fundamentos que dão vida à web.
 
 🎮 No tempo livre, me recarrego com livros, séries e jogos (às vezes, tudo ao mesmo tempo).
-👩‍💻 Ah, e sim: um PC com luzinha parece que reduz bugs, vai entender...
-🚲 Bicicleta me lembra que o movimento é vida — e que a liberdade também pode ter duas rodas.
+
+
 
 Tudo é relativo. Mas aqui, o que importa é ser verdadeira.
 
