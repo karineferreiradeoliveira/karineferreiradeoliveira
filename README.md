@@ -7,9 +7,6 @@ Foco nos fundamentos que dão vida à web.
 🎮 No tempo livre, me recarrego com livros, séries e jogos (às vezes, tudo ao mesmo tempo).
 
 
-
-Tudo é relativo. Mas aqui, o que importa é ser verdadeira.
-
  <div>
   <a href="https://github.com/karineferreiradeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karineferreiradeoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
