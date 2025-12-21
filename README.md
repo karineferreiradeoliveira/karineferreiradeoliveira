@@ -1,4 +1,4 @@
-Olá, Mundo! Eu sou a Karine 🌼
+Olá, Mundo! Eu sou a Karine 
 Depois de um tempo em silêncio, cá estou — versão original, com coragem no peito e curiosidade no olhar.
 Tenho um pé no front, outro no back, e a cabeça cheia de "por quês".
 Não me contento em copiar soluções: quero entender, questionar e criar com sentido.
