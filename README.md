@@ -4,8 +4,6 @@ Tenho um pé no front, outro no back, e a cabeça cheia de "por quês".
 Não me contento em copiar soluções: quero entender, questionar e criar com sentido.
 Foco nos fundamentos que dão vida à web.
 
-🎮 No tempo livre, me recarrego com livros, séries e jogos (às vezes, tudo ao mesmo tempo).
-
 
 100diasdecódigo, mesmo que seja 1 linha por dia.
  <div>
