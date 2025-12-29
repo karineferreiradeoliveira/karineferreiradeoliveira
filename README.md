@@ -6,6 +6,8 @@ Foco nos fundamentos que dão vida à web.
 
 
 100diasdecódigo, mesmo que seja 1 linha por dia.
+
+Tem dia que é muito desafiador, mas seguimos em frente assim mesmo.
  <div>
   <a href="https://github.com/karineferreiradeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karineferreiradeoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
