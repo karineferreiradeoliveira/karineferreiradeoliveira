@@ -5,7 +5,7 @@ Não me contento em copiar soluções: quero entender, questionar e criar com se
 Foco nos fundamentos que dão vida à web.
 
 
-100diasdecódigo, mesmo que seja 1 linha por dia.
+100diasdecódigo, mesmo que seja 1 linha por dia. Falhei 2 semanas, voltei agora.
 
 Tem dia que é muito desafiador, mas seguimos em frente assim mesmo.#100DAYSOFCODE
  <div>
